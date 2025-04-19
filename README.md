@@ -8,13 +8,13 @@ A full-stack Student Record Management System built with Angular, Ionic, and Nod
 
 🧰 Tech Stack
 
-Layer	Technology
+
 
 Frontend	Angular + Ionic Framework
 
 Backend	Node.js + Express
 
-Database	MongoDB
+Database	Sqlite
 
 Auth	JWT (JSON Web Token)
 
