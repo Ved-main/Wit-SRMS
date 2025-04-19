@@ -7,11 +7,18 @@ A full-stack Student Record Management System built with Angular, Ionic, and Nod
 🧰 Tech Stack
 
 Layer	Technology
+
 Frontend	Angular + Ionic Framework
+
 Backend	Node.js + Express
+
 Database	MongoDB
+
 Auth	JWT (JSON Web Token)
+
 Styling	Ionic UI Components, SCSS
+
+
 
 ✨ Features
 ✅ User Authentication (Login & Register)
@@ -22,6 +29,8 @@ Styling	Ionic UI Components, SCSS
 ✅ Export Student Record as PDF
 ✅ Responsive UI with Ionic
 ✅ Toast Notifications, Smooth Navigation
+
+
 
 
 💻 Frontend Setup (Ionic Angular)
