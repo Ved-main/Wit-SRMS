@@ -5,6 +5,7 @@ A full-stack Student Record Management System built with Angular, Ionic, and Nod
 
 
 
+
 🧰 Tech Stack
 
 Layer	Technology
@@ -42,11 +43,10 @@ Styling	Ionic UI Components, SCSS
 
 
 
-
-
 💻 Frontend Setup (Ionic Angular)
 npm install 
 ionic serve
+
 
 
 
