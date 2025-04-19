@@ -22,13 +22,21 @@ Styling	Ionic UI Components, SCSS
 
 ✨ Features
 ✅ User Authentication (Login & Register)
+
 ✅ Role-based access (Admin, Faculty)
+
 ✅ Add/Edit/Delete Student Records
+
 ✅ Manage Subjects & Grades
+
 ✅ Dashboard with Statistics
+
 ✅ Export Student Record as PDF
+
 ✅ Responsive UI with Ionic
+
 ✅ Toast Notifications, Smooth Navigation
+
 
 
 
