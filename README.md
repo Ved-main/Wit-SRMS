@@ -4,6 +4,7 @@ Video link:- https://drive.google.com/file/d/1_869U6y_1abNjmZOVZk14euKgR4vPu3_/v
 A full-stack Student Record Management System built with Angular, Ionic, and Node.js. This app allows administrators and faculty to manage student data including grades, subjects, attendance, and performance analytics via a dashboard.
 
 
+
 🧰 Tech Stack
 
 Layer	Technology
@@ -17,6 +18,7 @@ Database	MongoDB
 Auth	JWT (JSON Web Token)
 
 Styling	Ionic UI Components, SCSS
+
 
 
 
@@ -41,9 +43,11 @@ Styling	Ionic UI Components, SCSS
 
 
 
+
 💻 Frontend Setup (Ionic Angular)
 npm install 
 ionic serve
+
 
 
 🔙 Backend Setup 
